@@ -1,0 +1,14 @@
+{
+  "dataset1": {
+    "path": "data_scenarios/dataset1.csv",
+    "format": "csv",
+    "options": {"header": "True"}
+
+  },
+  "dataset2": {
+    "path": "data_scenarios/dataset2.csv",
+    "format": "csv",
+    "options": {"header": "True"}
+
+  }
+}

@@ -1,0 +1,2 @@
+[run]
+omit = source/services/*, source\spark\standard_spark.py
